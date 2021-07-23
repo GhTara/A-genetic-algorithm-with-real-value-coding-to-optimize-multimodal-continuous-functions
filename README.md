@@ -5,13 +5,20 @@ This implementation is based on the article :
 
 1. Classical genetic algorithm
     a. Initialize population
+			
     b. Fitness function calculation
+				
     c. Selection
+				
     d. Mutation
 
 2. Improved method: RGCA
     a. sub population
+				
     b. the stages like previous algorithm(1) on each sub population
+				
     c. find best sub population
+				
+				
 
     
